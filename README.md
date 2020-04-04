@@ -1,0 +1,2 @@
+# hasattrname
+cool
